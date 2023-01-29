@@ -3,6 +3,6 @@
 ➭ Página tal
 
 **Conceito**: Explicação do conceito.
-  <br>↳ abc
+<br>- abc
 
 **Outro conceito**
